@@ -1,4 +1,4 @@
-##📊 Vendor Performance Analysis — Data Analytics Project
+📊 Vendor Performance Analysis — Data Analytics Project
 
 ----
 
@@ -116,7 +116,11 @@ Reduce slow-moving inventory through demand planning
 🚀 Project Impact
 
 This project demonstrates how data analytics can be used to:
+
 ✔ Improve profitability
+
 ✔ Optimize inventory decisions
+
 ✔ Support strategic vendor management
+
 ✔ Enable data-driven business insights
